@@ -1,0 +1,6 @@
+# recommended you make this the same as your mod name in Steam
+title: "香港繁中"
+# currently unused, but may be someday
+description: "香港繁體中文翻譯"
+# a name for other mods to recognize you by, recommended to not change this once you set it
+staticID: chungchungdev.oni.translation.zh.hk
